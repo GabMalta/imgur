@@ -1,0 +1,2 @@
+DEBUG = False
+DEFAULT_TIMEOUT = 10
